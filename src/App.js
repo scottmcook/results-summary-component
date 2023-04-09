@@ -19,7 +19,7 @@ function App() {
         <div className="flex-1 px-6">
           <h3>Summary</h3>
           <SkillCard />
-          <button>Continue</button>
+          <button className="flex-1 py-2 rounded-full">Continue</button>
         </div>
       </div>
     </div>
