@@ -17,6 +17,7 @@
   /* Font styles */
   --font-size-sm: 18px;
   --font-family-hanken: "HankenGrotesk";
+  --font-bold: 600;
 }
 
 body {
@@ -30,7 +31,7 @@ body {
 }
 
 h3 {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 1.25em;
   font-family: var(--font-family-hanken);
 }
@@ -38,5 +39,15 @@ h3 {
 p {
   font-size: var( --font-size-sm);
   font-family: var(--font-family-hanken);
+}
+
+button {
+  background-color: var(--dark-gray-blue);
+  font-family: var(--font-family-hanken);
+  color: var(--white);
+  font-size: 1.15em;
+  font-weight: 600;
+  letter-spacing: -1px;
+  width: 100%;
 }
 
