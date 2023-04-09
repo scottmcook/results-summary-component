@@ -13,21 +13,26 @@
   --pale-blue: hsl(221, 100%, 96%);
   --light-lavender: hsl(241, 100%, 89%);
   --dark-gray-blue: hsl(224, 30%, 27%);
+  --gradient-blue-slate-to-royal: linear-gradient(0deg, hsl(234, 85%, 45%), hsl(241, 81%, 54%));
+  --gradient-violet-to-persian: linear-gradient(0deg, hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
 
   /* Font styles */
   --font-size-sm: 18px;
   --font-family-hanken: "HankenGrotesk";
-  --font-bold: 600;
+  --font-weight-normal: 500;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
 }
 
 body {
   height: 100%;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, var(--font-family-hanken), 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-weight: var(--font-weight-normal);
 }
 
 h3 {
