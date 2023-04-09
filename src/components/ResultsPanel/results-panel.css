@@ -1,7 +1,26 @@
 .results-panel__background {
 	background: var(--gradient-blue-slate-to-royal);
 }
-
-.results-panel__circle {
+.results-panel__header {
+	color: var(--light-lavender);
+	font-weight: var(--font-weight-bold);
+}
+.results-panel__score {
+	color: var(--pale-blue);
+}
+.results-panel__score--background {
 	background: var(--gradient-violet-to-persian);
+}
+.results-panel__score--bold {
+	font-weight: var(--font-weight-extra-bold);
+	color: var(--white);
+}
+
+h3 {
+	color: var(--white);
+	font-weight: var(--font-weight-bold);
+}
+
+p {
+	color: var(--light-lavender);
 }
