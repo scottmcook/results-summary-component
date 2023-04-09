@@ -1,0 +1,7 @@
+.results-panel__background {
+	background: var(--gradient-blue-slate-to-royal);
+}
+
+.results-panel__circle {
+	background: var(--gradient-violet-to-persian);
+}
