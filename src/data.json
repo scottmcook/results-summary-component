@@ -9,18 +9,18 @@
     "category": "Memory",
     "score": 92,
     "icon": "./assets/images/icon-memory.svg",
-    "backgroundColor": "hsl(221, 100%, 96%)"
+    "backgroundColor": "hsl(39, 100%, 56%)"
   },
   {
     "category": "Verbal",
     "score": 61,
     "icon": "./assets/images/icon-verbal.svg",
-    "backgroundColor": "hsl(241, 100%, 89%)"
+    "backgroundColor": "hsl(166, 100%, 37%)"
   },
   {
     "category": "Visual",
     "score": 72,
     "icon": "./assets/images/icon-visual.svg",
-    "backgroundColor": "hsl(224, 30%, 27%)"
+    "backgroundColor": "hsl(234, 85%, 45%)"
   }
 ]
