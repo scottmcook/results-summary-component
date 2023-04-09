@@ -5,7 +5,8 @@
 Here is a list of things I learned from making this project.
 
 - **React** Keep your assets in public folder ensures you can access it anywhere in the project. By giving `/path_to_image` it has no need for any path traversal `'../../'`.
-- **CSS** Best practice for buttons is to add padding rather than height. You
+- **CSS** Best practice for buttons is to add padding rather than height.
+- **git** Github will not count commit contributions from your machine unless `git config --global user.email` is set to your Github account email.
 - **Other** Variable fonts are coollll.
 
 ## Available project scripts
