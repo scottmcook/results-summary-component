@@ -3,7 +3,7 @@ import ResultsPanel from "./components/ResultsPanel/ResultsPanel";
 
 function App() {
   return (
-    <div className="xl:w-1/2 place-content-center xl:rounded-lg shadow-md">
+    <div className="xl:w-1/2 place-content-center xl:rounded-3xl shadow-md">
       <div className="flex flex-col xl:flex-row">
         <ResultsPanel />
         <div className="flex-1 px-6">
