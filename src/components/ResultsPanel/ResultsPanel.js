@@ -5,7 +5,7 @@ export default function ResultsPanel() {
     <div className="flex-1 rounded-b-3xl xl:rounded-3xl text-center results-panel__background">
       <div className="flex flex-col content-center">
         <div className="mt-6 mb-2 results-panel__header">Your Result</div>
-        <div className="my-4 flex-1 self-center">
+        <div className="my-2 flex-1 self-center">
           <div className="results-panel__score flex-col">
             <div className="mb-2">
               <span className="results-panel__score--bold text-6xl">76</span>
