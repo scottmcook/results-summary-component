@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is Scott Cook's solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 ## Table of contents
 
@@ -41,22 +41,21 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/scottmcook/results-summary-component)
+- Live Site URL: [Vercel app](https://results-summary-component-coral.vercel.app/)
 
 ## My process
 
 ### Built with
 
+- `create-react-app`
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [TailWind](https://tailwindcss.com/) - For utility classes
 
 ### What I learned
 
@@ -85,8 +84,6 @@ const proudOfThisFunc = () => {
 };
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
@@ -97,10 +94,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [StackOverflow - drawing a circle with flexbox](https://stackoverflow.com/questions/16615403/how-to-draw-a-circle-with-text-in-the-middle) - I sought out a pattern to draw a circle specifically with Flexbox.
 
 ## Author
 
