@@ -1,11 +1,22 @@
+h3 {
+	color: var(--white);
+	font-weight: var(--font-weight-bold);
+}
+
+p {
+	color: var(--light-lavender);
+}
+
 .results-panel__background {
 	background: var(--gradient-blue-slate-to-royal);
 }
+
 .results-panel__header {
 	color: var(--light-lavender);
 	font-weight: var(--font-weight-bold);
 	font-size: var(--font-size-sm);
 }
+
 .results-panel__score {
   display: flex;
   justify-content: center;
@@ -29,11 +40,3 @@
 	color: var(--light-lavender);
 }
 
-h3 {
-	color: var(--white);
-	font-weight: var(--font-weight-bold);
-}
-
-p {
-	color: var(--light-lavender);
-}
