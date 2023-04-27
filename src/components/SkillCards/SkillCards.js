@@ -3,7 +3,7 @@ import scores from "../../data.json";
 export default function SkillCard() {
   const scoreCard = scores.map((score) => (
     <div
-      className="flex justify-between px-3 py-4 mb-6 rounded-lg bg-teal-200"
+      className="flex justify-between px-3 py-4 my-2 rounded-lg bg-teal-200"
       style={{ backgroundColor: `${score.backgroundColor}` }}
     >
       <div className="flex flex-initial">
