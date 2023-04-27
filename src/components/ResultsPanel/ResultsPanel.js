@@ -13,7 +13,7 @@ export default function ResultsPanel() {
             <div className="results-panel__score-p">of 100</div>
           </div>
         </div>
-        <h3 className="my-2">Great</h3>
+        <h3 className="my-2 text-white">Great</h3>
         <p className="mb-10 px-6 leading-tight">
           You scored higher than 65% of the people who have taken these tests.
         </p>
