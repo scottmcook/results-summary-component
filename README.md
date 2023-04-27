@@ -2,12 +2,16 @@
 
 This is Scott Cook's solution to the [results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
+## Links
+
+- Solution URL: [Github](https://github.com/scottmcook/results-summary-component)
+- Live Site URL: [Vercel app](https://results-summary-component-coral.vercel.app/)
+
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,11 +33,6 @@ Users should be able to:
 <img width="376" alt="Screenshot 2023-04-27 at 12 01 52 PM" src="https://user-images.githubusercontent.com/6232294/234968723-3e964bd0-e59c-4802-9022-946d60818f5c.png">
 
 <img width="718" alt="Screenshot 2023-04-27 at 12 02 13 PM" src="https://user-images.githubusercontent.com/6232294/234968798-cc053ddf-8830-44b1-834a-a1bd7860583e.png">
-
-### Links
-
-- Solution URL: [Github](https://github.com/scottmcook/results-summary-component)
-- Live Site URL: [Vercel app](https://results-summary-component-coral.vercel.app/)
 
 ## My process
 
