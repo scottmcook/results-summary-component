@@ -6,7 +6,7 @@ function App() {
     <div className="flex items-center justify-center h-full">
       <div className="rounded-3xl xl:shadow-md">
         <div className="flex flex-col xl:flex-row">
-          <div className="xl:w-80 rounded-b-3xl xl:rounded-3xl text-center results-panel__background">
+          <div className="rounded-b-3xl text-center results-panel__background sm:pb-8 xl:w-80 xl:rounded-3xl">
             <ResultsPanel />
           </div>
           <div className="xl:w-80 px-6">
