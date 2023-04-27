@@ -24,7 +24,11 @@
   --font-weight-extra-bold: 800;
 }
 
-html, body, #root { height: 100%; }
+@media screen and (min-width: 1440px) {
+  html, body, #root { 
+    height: 100%; 
+  }
+}
 
 body {
   margin: 0;
