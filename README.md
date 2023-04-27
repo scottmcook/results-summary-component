@@ -16,8 +16,6 @@ This is Scott Cook's solution to the [Results summary component challenge on Fro
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
