@@ -24,9 +24,11 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+<img width="376" alt="Screenshot 2023-04-27 at 12 01 52 PM" src="https://user-images.githubusercontent.com/6232294/234968723-3e964bd0-e59c-4802-9022-946d60818f5c.png">
+
+<img width="718" alt="Screenshot 2023-04-27 at 12 02 13 PM" src="https://user-images.githubusercontent.com/6232294/234968798-cc053ddf-8830-44b1-834a-a1bd7860583e.png">
 
 ### Links
 
