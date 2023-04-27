@@ -13,7 +13,7 @@ export default function ResultsPanel() {
         </div>
       </div>
       <h3 className="text-2xl mt-6 mb-4 text-white">Great</h3>
-      <p className="mx-8 leading-tight">
+      <p className="xl:mx-8 leading-tight pb-8 mx-12">
         You scored higher than 65% of the people who have taken these tests.
       </p>
     </div>
